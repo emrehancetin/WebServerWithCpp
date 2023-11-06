@@ -57,7 +57,7 @@ img:hover{
 }
 
 .ball:nth-child(1){
-    animation: ball-animation 1.5s ease infinite alternate;
+    animation: ball-animation .5s ease infinite alternate;
 }
 
 .ball:nth-child(2){
