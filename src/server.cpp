@@ -1,5 +1,5 @@
 #include "server.h"
-#define PORT 8082
+#define PORT 8080
 
 
 // this method creates a Server.
@@ -144,3 +144,6 @@ int main(){
     // Finally, after everything works successfully, it allows you to exit the program.
     return 0;
 }
+
+// g++ src/server.cpp -o bin/server
+// bin/server
